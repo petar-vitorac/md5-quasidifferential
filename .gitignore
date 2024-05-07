@@ -1,0 +1,8 @@
+# When running a .sage file, a .sage.py gets created
+*.sage.py
+
+# Executable from md5coll.c compilation
+md5/differential/md5coll
+
+# Python virtual environment
+.venv/
